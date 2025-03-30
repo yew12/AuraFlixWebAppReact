@@ -1,0 +1,12 @@
+@AuraFlixWebApi_HostAddress = http://localhost:5048
+
+GET {{AuraFlixWebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
+GET {{AuraFlixWebApi_HostAddress}}/api/movie
+Accept: application/json
+
+###
+GET {{AuraFlixWebApi_HostAddress}}/api/movie/1
+Accept: application/json

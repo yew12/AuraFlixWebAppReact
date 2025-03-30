@@ -1,0 +1,6 @@
+AuraFlixWebApi/bin
+AuraFlixWebApi/obj
+AuraFlixWebApi/Properties/launchSettings.json
+AuraFlixWebApi/appsettings.json
+auraflix.frontend/node_modules
+auraflix.frontend/package-lock.json
